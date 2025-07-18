@@ -137,3 +137,6 @@ Desarrollado con ❤️ usando React y TypeScript.
 ---
 
 **¡Disfruta rastreando tus calorías de manera saludable!** 🏃‍♂️💪
+
+<img width="1920" height="1588" alt="CapturePage(1)" src="https://github.com/user-attachments/assets/c6ded990-f730-4e5b-86e5-ddb74d435818" />
+
